@@ -1,4 +1,4 @@
-MySQL_loadCSV_Query
+MySQL Load CSV Query
 ===================
 
 A simple query to load a local CSV file
