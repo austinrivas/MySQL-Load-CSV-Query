@@ -5,7 +5,7 @@ A simple query to load a local CSV file
 
 ```
 LOAD DATA INFILE "/local/path/to/file.csv"
-INTO TABLE `offerLuxuryLink`
+INTO TABLE `table`
 COLUMNS TERMINATED BY ','
 OPTIONALLY ENCLOSED BY '"'
 ESCAPED BY '"'
